@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+    align-items: center;
+    border: 5px;
+
+}
+h1{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25;
+    text-transform: uppercase;
+    text-emphasis-style: bold;
+}
+p{
+    color: rgb(62, 4, 53);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20;
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+
+
+#email{
+    border-radius: 30px;
+    width: 500px;
+    height: 25px;
+}
+#pass{
+    border-radius: 30px;
+    width: 500px;
+    height: 25px;
+}
+button{
+    background-color: rgb(227, 13, 13) ;
+    border-radius: 20px;
+    width: 500px;
+    height: 30px;
+}
+button:hover{
+    background-color: green;
+    color: dodgerblue;
+    font-size: larger;
+}
+form{
+    filter: blur(10);
+    text-align: center;
+    padding: 5px;
+
+}
+
+
